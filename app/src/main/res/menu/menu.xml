@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/mArquivo"
+        android:icon="@drawable/baseline_archive"
+        android:title="Arquivo"
+        app:showAsAction="always"
+
+
+
+
+
+
+
+        />
+    <item
+        android:id="@+id/mexcluir"
+        android:icon="@drawable/baseline_save"
+        android:title="Excluir"
+        app:showAsAction="always"
+
+
+
+
+
+
+
+        />
+    <item
+        android:id="@+id/mSalvar"
+        android:icon="@drawable/baseline_archive"
+        android:title="Salvar"
+        app:showAsAction="always"
+
+
+
+
+
+
+
+        />
+    <item
+        android:id="@+id/mAlterar"
+        android:icon="@drawable/baseline_archive"
+        android:title="Alterar"
+        app:showAsAction="always"
+
+
+
+
+
+
+
+        />
+
+
+
+</menu>
